@@ -9,10 +9,14 @@ creati principalmente per **sperimentare e fare pratica** con la sintassi e i co
 - Condizioni (`if`, `else`)
 - Cicli (`for`, `while`)
 - Funzioni di base
-- Prime nozioni di OOP (classi e oggetti)
+- Prime nozioni di OOP (classi e oggetti).
+
+"add.py" contiene un semplice esercizio di addizione/divisione.
+"tmp.py" contiene un semplice esercizio di sostituzione(no sovrascrizione)
 
 > Nota: questi esercizi sono **molto semplici** e servono solo a fare pratica.
 > Nota_2: questi esercizi provengono dal sito [Kaggle](https://www.kaggle.com/code/colinmorris/hello-python).
+
 
 
 
